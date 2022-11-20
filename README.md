@@ -1,7 +1,7 @@
 # visualizacao-cientifica
 Atividades de Visualização Científica
 
-funções de faceset falharam com o erro reportado em https://github.com/Jaejatae/visualizacao-cientifica#:~:text=image_2022%2D11%2D20_121406508.png
+funções de faceset falharam com o erro reportado em https://github.com/Jaejatae/visualizacao-cientifica/blob/main/image_2022-11-20_121406508.png
 
 
 Imagem de skybox criada por Bob Dass. Disponível no link a seguir.
